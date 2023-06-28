@@ -1,7 +1,7 @@
 import React from 'react';
 
-const App = (): React.JSX.Element => {
-	return <h1>Hello world! I am using React</h1>;
-};
+function App(): React.JSX.Element {
+	return <div>Everate Default Webapp</div>;
+}
 
 export default App;
