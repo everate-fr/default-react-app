@@ -1,5 +1,11 @@
-# 🌏 Global
-    Hey there ! This is everate default template for react app.
+# 🚀 Company Name React App Template
+
+This is a starter template for creating React applications at Company Name. It includes the basic setup and structure to kick-start your development process.
+
+## 📋 Table of Contents
+
+- [TODO](#-todo)
+
 # TODO
     - Add dockerfile
     - Add .env
