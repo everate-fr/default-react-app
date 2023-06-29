@@ -57,7 +57,7 @@ This is a starter template for creating React applications at Everate. It includ
 
 3. To build the production-ready optimized bundle, run:
     ```bash
-        npm build
+        > npm build
     ```
     This will generate the optimized bundle in the `dist` directory.
 
