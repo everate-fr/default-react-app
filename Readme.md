@@ -5,20 +5,27 @@ This is a starter template for creating React applications at Everate. It includ
 ## 📋 Table of Contents
 
 - [Features](#🎯-features)
-- [TODO](#todo)
+- [Prerequisites](#🔧-prerequisites)
+- [Installation](#🛠️-installation)
+- [Usage](#▶️-usage)
+- [Folder Structure](#📂-folder-structure)
+- [Contributing](#🤝-contributing)
+- [Licence](#📄-license)
+- [Todo](#todo)
 
 # 🎯 Features
-**React v18** - A JavaScript library for building user interfaces.
-**Webpack** - A module bundler to bundle JavaScript files for usage in a browser.
-**Babel** - A JavaScript compiler for converting modern JavaScript into a backward-compatible version.
-**TypeScript** - A statically-typed superset of JavaScript that compiles to plain JavaScript.
-**ESLint** - A pluggable linter tool for identifying and reporting on patterns in JavaScript and **TypeScript** code.
-**Prettier** - An opinionated code formatter to enforce consistent code style.
-**Husky** - A tool for easily setting up Git hooks.
-**Lint-staged** - A tool for running scripts on staged files in Git.
-**HTML Webpack Plugin** - Simplifies the creation of HTML files to serve your bundles.
-**React DOM** - The entry point for rendering React components in the DOM.
-**Webpack Dev Server** - A development server that provides live reloading and other development features.
+
+- **React v18** - A JavaScript library for building user interfaces.
+- **Webpack** - A module bundler to bundle JavaScript files for usage in a browser.
+- **Babel** - A JavaScript compiler for converting modern JavaScript into a backward-compatible version.
+- **TypeScript** - A statically-typed superset of JavaScript that compiles to plain JavaScript.
+- **ESLint** - A pluggable linter tool for identifying and reporting on patterns in JavaScript and TypeScript code.
+- **Prettier** - An opinionated code formatter to enforce consistent code style.
+- **Husky** - A tool for easily setting up Git hooks.
+- **Lint-staged** - A tool for running scripts on staged files in Git.
+- **HTML Webpack Plugin** - Simplifies the creation of HTML files to serve your bundles.
+- **React DOM** - The entry point for rendering React components in the DOM.
+- **Webpack Dev Server** - A development server that provides live reloading and other development features.
 
 ## 🔧 Prerequisites
 
