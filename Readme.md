@@ -35,21 +35,31 @@ This is a starter template for creating React applications at Everate. It includ
 ## 🛠️ Installation
 
 1. Clone this repository:
-    git clone git@github.com:lilianQ-Q/default-react-app.git
-2. Navigate to the project directory
-    cd default-react-app
-3. Install the dependencies
-    npm install
+    ```bash
+        > git clone git@github.com:lilianQ-Q/default-react-app.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+        > cd default-react-app
+    ```
+3. Install the dependencies:
+    ```bash
+        > npm install
+    ```
 
 ## ▶️ Usage
 
-To start the development server, run the following command:
-    npm start
-Open your browser and visit `http://localhost:3000` to see the app.
+1. To start the development server, run the following command:
+    ```bash
+        > npm start
+    ```
+2. Open your browser and visit `http://localhost:3000` to see the app.
 
-To build the production-ready optimized bundle, run:
-    npm build
-This will generate the optimized bundle in the `dist` directory.
+3. To build the production-ready optimized bundle, run:
+    ```bash
+        npm build
+    ```
+    This will generate the optimized bundle in the `dist` directory.
 
 ## 📂 Folder Structure
 
