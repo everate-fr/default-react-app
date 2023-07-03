@@ -1,5 +1,5 @@
 import React from 'react';
-import Router from './core/router/Router';
+import AppRouter from './core/router/AppRouter';
 import GlobalRouter from './modules/Global/Global.router';
 import TestRouter from './modules/Test/Test.router';
 
@@ -9,7 +9,7 @@ const APPLICATION_ROUTERS: React.JSX.Element[] = [
 ];
 
 function App(): React.JSX.Element {
-	return <Router routers={APPLICATION_ROUTERS} />;
+	return <AppRouter routers={APPLICATION_ROUTERS} />;
 }
 
 export default App;

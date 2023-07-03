@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
-interface RouterProps {
+interface AppRouterProps {
 	routers: React.JSX.Element[];
 }
 
-function Router(props: RouterProps): React.JSX.Element {
+function AppRouter(props: AppRouterProps): React.JSX.Element {
 	return (
 		<BrowserRouter>
 			{props.routers.map((router, index) => {
@@ -15,4 +15,4 @@ function Router(props: RouterProps): React.JSX.Element {
 	);
 }
 
-export default Router;
+export default AppRouter;
