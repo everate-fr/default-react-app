@@ -4,7 +4,7 @@ import ModuleRouter from '../../core/router/ModuleRouter';
 function GlobalRouter(): React.JSX.Element {
 	return (
 		<ModuleRouter
-			prefix="global"
+			prefix="/"
 			moduleRoutes={[
 				{
 					url: '',
